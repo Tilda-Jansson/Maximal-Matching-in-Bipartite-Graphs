@@ -4,7 +4,7 @@ This repository contains a program that takes a bipartite graph as input and pro
 
 ## Steps
 
-1. [**Reduce the problem to the flow problem**](reducetoflow/BipRed.java): A program has been implemented that solves the matching problem using a black box function that solves the flow problem. [Kattis](oldkattis.adkreducetoflow)
+1. [**Reduce the problem to the flow problem**](reducetoflow/BipRed.java): A program has been implemented that solves the matching problem using a black box function that solves the flow problem. [Kattis](https://kth.kattis.com/problems/oldkattis.adkreducetoflow)
 
 2. [**Solve the flow problem**](maxflow/Flow2.java): A program has been implemented that solves the flow problem. The program reads input data from standard input and writes the solution to standard output. [Kattis](https://kth.kattis.com/problems/oldkattis.adkmaxflow)
 
